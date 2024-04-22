@@ -1,0 +1,7 @@
+import org.apache.xerces.impl.xpath.regex.RegexParser;
+public class FunctionUse4272 {
+public void funcUse() {
+RegexParser regexparser = new RegexParser();
+regexparser.isSet(null);
+}
+}

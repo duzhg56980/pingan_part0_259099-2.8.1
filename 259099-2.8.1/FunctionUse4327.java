@@ -1,0 +1,7 @@
+import org.apache.xerces.impl.xpath.regex.RegularExpression;
+public class FunctionUse4327 {
+public void funcUse() {
+RegularExpression regularexpression = new RegularExpression();
+regularexpression.getPattern();
+}
+}

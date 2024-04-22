@@ -1,0 +1,7 @@
+import org.apache.xerces.dom.CoreDOMImplementationImpl;
+public class FunctionUse1588 {
+public void funcUse() {
+CoreDOMImplementationImpl coredomimplementationimpl = new CoreDOMImplementationImpl();
+coredomimplementationimpl.createLSParser(null,null);
+}
+}

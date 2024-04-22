@@ -1,0 +1,7 @@
+import org.apache.xerces.impl.xpath.regex.ParserForXMLSchema;
+public class FunctionUse4190 {
+public void funcUse() {
+ParserForXMLSchema parserforxmlschema = new ParserForXMLSchema();
+parserforxmlschema.decodeEscaped();
+}
+}
